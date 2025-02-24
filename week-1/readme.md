@@ -6,6 +6,7 @@
 ---
 
 ![alt text](pens.png)
+<br>
 **Nama:** Arva Zaki Fanadzan  
 **Kelas:** 2 D3 IT A  
 **NRP:** 3123500014  
@@ -28,6 +29,7 @@
 
 ## 2. Deskripsi Gambar pada Slide  
 ![alt text](image.png)
+<br>
 Pada gambar ini, proses komunikasi terbagi menjadi tiga bagian:  
 1. **Data Link Layer**  
 2. **Network Layer**  
